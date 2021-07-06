@@ -135,3 +135,46 @@ section{
 .food-lovers-female img{
     width: 100%;
 }
+
+/* feedback area css start */
+.feedback-area{
+    background: url(../images/food/mixed-salad.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px 0;
+}
+.feedback-title h2{
+    color: #fff;
+    font-size: 50px;
+}
+.feedback-form{
+    width: 50%;
+    margin: auto;
+}
+.form-group{
+    margin-bottom: 10px;
+}
+.form-group label{
+    color: #fff;
+    font-weight: 700;
+}
+.form-group label,
+.form-group input{
+    display: block;
+    margin-bottom: 10px;
+}
+.form-group input,
+.form-group textarea{
+    width: 100%;
+    padding: 7px 3px;
+    border: none;
+    border-radius: 5px;
+    background: #ffffff;
+}
+.form-group button{
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border: none;
+    width: 100%;
+}
