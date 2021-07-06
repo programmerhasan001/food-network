@@ -201,3 +201,21 @@ section{
     font-weight: 400;
     color: #18191F;
 }
+
+/* footer area css start */
+.footer-area{
+    background: #0B0D17;
+    padding: 20px 0 80px;
+}
+.footer-content{
+    text-align: center;
+}
+.footer-content h2{
+    font-weight: 900;
+    font-size: 30px;
+    color: #5B5B5B;
+}
+.footer-content p{
+    font-weight: 400;
+    color: #fff;
+}
