@@ -111,3 +111,27 @@ section{
 .recipe-item img{
     width: 100%;
 }
+
+/* food lover area css start */
+.food-lovers-area{
+    padding: 15px 0;
+}
+.food-lover-title h2{
+    padding-bottom: 10px;
+}
+.food-lovers-container{
+    justify-content: space-between;
+    padding: 0 4%;
+}
+.food-lovers-male,
+.food-lovers-female{
+    width: 32%;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24);
+}
+.food-lovers-male{
+    margin-bottom: 20px;
+}
+.food-lovers-male img,
+.food-lovers-female img{
+    width: 100%;
+}
