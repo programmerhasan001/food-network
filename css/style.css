@@ -178,3 +178,26 @@ section{
     border: none;
     width: 100%;
 }
+
+/* followers area css start */
+.followers-container{
+    width: 70%;
+    margin: auto;
+    padding: 40px 0;
+    /* box-shadow: 0px 5px 15px gray; */
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.24);
+    border-radius: 20px;
+}
+.follower{
+    width: 33.33%;
+    text-align: center;
+}
+.follower span{
+    font-size: 35px;
+    font-weight: 700;
+    color: #18191F;
+}
+.follower p{
+    font-weight: 400;
+    color: #18191F;
+}
